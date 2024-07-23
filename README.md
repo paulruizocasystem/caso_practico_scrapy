@@ -15,3 +15,15 @@ Recomendamos usar un entorno virtual para manejar las dependencias de manera ais
 ```bash
 python -m venv env
 env\Scripts\activate
+
+## Agradecimientos
+
+Este proyecto no sería posible sin la contribución y los recursos proporcionados por la comunidad y diversas plataformas educativas:
+
+- **[El Pingüino de Mario](https://www.youtube.com/channel/UCbPk5W8B3Gu72jT8CHgnpdg)**: Gracias por el excelente tutorial de web scraping con Python que sirvió como una base fundamental y fuente de inspiración para este proyecto. El video tutorial fue instrumental para entender cómo aplicar técnicas de scraping de manera efectiva y ética.
+
+- **[VulnHub](https://www.vulnhub.com/)**: Agradecimientos a VulnHub por proporcionar un recurso accesible y rico en contenido que se utilizó como objetivo de scraping para este caso práctico. Su plataforma es fundamental para la comunidad de seguridad y hacking.
+
+- **[GitHub](https://github.com/)**: Gracias a GitHub por ofrecer las herramientas necesarias para alojar y gestionar el código de este proyecto, facilitando la colaboración y el seguimiento de este trabajo.
+
+- **[Python Community](https://www.python.org/community/)**: Un agradecimiento especial a la comunidad de Python por desarrollar y mantener librerías tan poderosas como `requests` y `colorama`, que son esenciales para la ejecución de este proyecto.
