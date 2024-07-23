@@ -21,4 +21,17 @@ for i in sin_duplicados:
     print(nombre_maquinas)
 #print(maquinas_final)
 
+#####################
+#¿Qué pasa si añaden una maquina nueva?
 
+maquina_noob = "noob-1"
+existe_noob = False
+
+for a in maquinas_final:
+    if a == maquina_noob:
+        existe_noob = True
+        break
+if existe_noob == True:
+    print("No hay ninguna maquina nueva")
+else:
+    print("Máquina Nueva")
