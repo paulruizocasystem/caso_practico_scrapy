@@ -31,7 +31,12 @@ for a in maquinas_final:
     if a == maquina_noob:
         existe_noob = True
         break
-if existe_noob == True:
-    print("No hay ninguna maquina nueva")
-else:
-    print("Máquina Nueva")
+
+##Usando la libreria colorama: 
+color_verde = Fore.GREEN
+color_amarillo = Fore.YELLOW
+
+#if existe_noob == True:
+    #print(color_verde + "No hay ninguna maquina nueva")
+#else:
+    #print(color_amarillo + "Máquina Nueva")
