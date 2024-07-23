@@ -12,9 +12,9 @@ Antes de comenzar, asegúrate de tener Python instalado en tu sistema. Este proy
 
 Recomendamos usar un entorno virtual para manejar las dependencias de manera aislada. Puedes configurar un entorno virtual ejecutando:
 
-```bash
+'''bash
 python -m venv env
-env\Scripts\activate
+env\Scripts\activate'''
 
 ## Agradecimientos
 
